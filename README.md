@@ -6,7 +6,10 @@ The Mr. Koh is a birthday project for Mr. Koh.  Happy Birthday Mr. Koh!  Mr. Koh
 
 ## Features
 * RISC-V instruction set
-* ESP32-C4 MCU
+* Espressif Systems ESP32-C3FH4 MCU
+* 400K SDRAM and 4MB Flash memory
+* Real-Time Clock support
+* 10 GPIOs with RESET, BOOT, and RGB OUT
 * RGB, power and data leds
 * Built-in USB Type C flashing and debugging
 * ESD protected
