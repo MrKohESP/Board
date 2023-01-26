@@ -5,7 +5,7 @@ Mr. Koh ESP32-C3 RISC-V Development Board
 The Mr. Koh is a birthday project for Mr. Koh.  Happy Birthday Mr. Koh!  Mr. Koh is an Open Hardware, Open Source (GPL3.0), ESP32-C3 RISC-V Developement Board.
 
 ## Features
-* RISC-V instruction set
+* [RISC-V](https://github.com/jameslzhu/riscv-card/blob/586b60b5c351b3e6e6ebbf7130b9f93013b2e511/riscv-card.pdf) instruction set
 * Espressif Systems ESP32-C3FH4 MCU
 * 400K SDRAM and 4MB Flash memory
 * Real-Time Clock support
