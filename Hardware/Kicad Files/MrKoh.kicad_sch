@@ -4796,7 +4796,7 @@
     (uuid ebcc2821-4502-4f55-ac9c-2ba6e29aacd8)
     (property "Reference" "D2" (id 0) (at 186.055 140.335 90))
     (property "Value" "WS2812B" (id 1) (at 184.785 130.175 0))
-    (property "Footprint" "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm" (id 2) (at 180.975 144.145 0)
+    (property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (id 2) (at 180.975 144.145 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" (id 3) (at 182.245 146.05 0)
@@ -5143,7 +5143,7 @@
       (reference "D1") (unit 1) (value "WHT") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/ebcc2821-4502-4f55-ac9c-2ba6e29aacd8"
-      (reference "D2") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B-2020_PLCC4_2.0x2.0mm")
+      (reference "D2") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
     (path "/6586ce7c-7ee1-4b58-b2ce-66c3da8cb1c8"
       (reference "D3") (unit 1) (value "RED") (footprint "LED_SMD:LED_0603_1608Metric")
