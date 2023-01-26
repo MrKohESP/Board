@@ -19,6 +19,9 @@ The Mr. Koh is a birthday project for Mr. Koh.  Happy Birthday Mr. Koh!  Mr. Koh
 * [Front](front012623.png)
 * [Back](back012623.png)
 
+## History
+1. Designed 01/23/2023
+2. Sent to production 01/26/2023
 
 
 
