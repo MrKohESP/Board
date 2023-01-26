@@ -17,7 +17,7 @@ The Mr. Koh is a birthday project for Mr. Koh.  Happy Birthday Mr. Koh!  Mr. Koh
 ## Files
 * [Schematic](Hardware/MrKoh.pdf) 
 * [Front](front012623.png)
-* [Back](Back012623.png)
+* [Back](back012623.png)
 
 
 
