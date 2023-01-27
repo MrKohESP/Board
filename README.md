@@ -10,7 +10,7 @@ The Mr. Koh is a birthday project for Mr. Koh.  Happy Birthday Mr. Koh!  Mr. Koh
 * 400K SDRAM and 4MB Flash memory
 * Real-Time Clock support
 * 10 GPIOs with RESET, BOOT, and RGB OUT
-* [RGB](http://www.world-semi.com/DownLoadFile/111), power and data leds
+* [RGB](http://www.world-semi.com/Certifications/details-111-4.html), power and data leds
 * Built-in USB Type C flashing and JTAG debugging
 * ESD protected
 * [FreeRTOS](https://www.freertos.org/Using-FreeRTOS-on-RISC-V.html) Supported when using [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/v5.0/esp32/)
@@ -26,7 +26,7 @@ The Mr. Koh is a birthday project for Mr. Koh.  Happy Birthday Mr. Koh!  Mr. Koh
 1. Designed 01/23/2023
 2. Sent to production 01/26/2023
 3. Expected Ship 02/04/2023
-4. Anticipated Arrival 02/11/2022
+4. Anticipated Arrival 02/11/2023
 
 
 
