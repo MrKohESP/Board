@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "espc4synth.kicad_pro",
+    "filename": "mykoh.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -387,7 +387,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "espc4synth.net",
+      "netlist": "mrkoh.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
