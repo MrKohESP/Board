@@ -20,7 +20,7 @@ The Mr. Koh is a birthday project for Mr. Koh.  Happy Birthday Mr. Koh!  Mr. Koh
 * [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf)
 * [Schematic](Hardware/MrKoh.pdf) 
 * [BOM](Hardware/Fab/MrKoh_BOM.csv)
-* [Position (CPL)](Hardware/Fab/MrKoh-position.csv
+* [CPL (Position)](Hardware/Fab/MrKoh-position.csv)
 * [PCB Front](front012623.png)
 * [PCB Back](back012623.png)
 
