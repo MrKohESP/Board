@@ -11,7 +11,7 @@ The Mr. Koh is a birthday project for Mr. Koh.  Happy Birthday Mr. Koh!  Mr. Koh
 * Real-Time Clock support
 * 10 GPIOs with RESET, BOOT, and RGB OUT
 * [RGB](http://www.world-semi.com/Certifications/details-111-4.html), power and data leds
-* Built-in USB Type C flashing and JTAG debugging
+* Built-in USB Type C flashing and [JTAG debugging](https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/api-guides/usb-serial-jtag-console.html)
 * ESD protected
 * [FreeRTOS](https://www.freertos.org/Using-FreeRTOS-on-RISC-V.html) Supported when using [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/v5.0/esp32/)
 
