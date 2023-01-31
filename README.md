@@ -27,8 +27,8 @@ The Mr. Koh is a birthday project for Mr. Koh.  Happy Birthday Mr. Koh!  Mr. Koh
 ## History
 1. Designed 01/23/2023
 2. Sent to production 01/26/2023
-3. Expected Ship 02/04/2023
-4. Anticipated Arrival 02/11/2023
+3. Shipped 01/30/2023
+4. Anticipated Arrival 02/06/2023
 
 
 
