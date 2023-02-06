@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "(6.0.10)"
     },
-    "CreationDate": "2023-01-26T00:46:23-05:00"
+    "CreationDate": "2023-02-05T17:29:38-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "espc4synth",
-      "GUID": "65737063-3473-4796-9e74-682e6b696361",
+      "Name": "MrKoh",
+      "GUID": "4d724b6f-682e-46b6-9963-61645f706362",
       "Revision": "1"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "espc4synth-F_Cu.gtl",
+      "Path": "MrKoh-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "espc4synth-B_Cu.gbl",
+      "Path": "MrKoh-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "espc4synth-F_Paste.gtp",
+      "Path": "MrKoh-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "espc4synth-B_Paste.gbp",
+      "Path": "MrKoh-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "espc4synth-F_Silkscreen.gto",
+      "Path": "MrKoh-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "espc4synth-B_Silkscreen.gbo",
+      "Path": "MrKoh-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "espc4synth-F_Mask.gts",
+      "Path": "MrKoh-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "espc4synth-B_Mask.gbs",
+      "Path": "MrKoh-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "espc4synth-Edge_Cuts.gm1",
+      "Path": "MrKoh-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
