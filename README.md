@@ -22,16 +22,21 @@ Mr. Koh is an Open Hardware, Open Source (GPL3.0), ESP32-C3 RISC-V Developement 
 ## Files
 * [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf)
 * [Schematic](Schematic.pdf) 
-* [BOM](Hardware/Fab/MrKoh_BOM.csv)
-* [CPL (Position)](Hardware/Fab/MrKoh-position.csv)
+* [BOM](Hardware/Fab/MrKohBOM.csv)
+* [CPL (Position)](Hardware/Fab/MrKoh-top-pos.csv)
 * [PCB Front](MrKoh.png)
 * [PCB Back](MrKohBack.png)
 
 ## History
-1. Designed 01/23/2023
-2. Sent to production 01/26/2023
-3. Shipped 01/30/2023
-4. Anticipated Arrival 02/06/2023
+1. v1 Designed 01/23/2023
+2. v1 Sent to production 01/26/2023
+3. v1 Shipped 01/30/2023
+4. v1 Arrival 02/03/2023
+5. v1 Issues with USB Type C connector clearance and USB Type C pinout resulting in connectivity problems.
+6. v2 Fixes applied 02/03/2023
+7. v2 Sent to production 02/06/2023 (Shenzen Time)
+8. v2 Scheduled for completion by 02/10/2023
+
 
 
 
