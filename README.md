@@ -28,14 +28,17 @@ Mr. Koh is an Open Hardware, Open Source (GPL3.0), ESP32-C3 RISC-V Developement 
 * [PCB Back](MrKohBack.png)
 
 ## History
-1. v1 Designed 01/23/2023
-2. v1 Sent to production 01/26/2023
-3. v1 Shipped 01/30/2023
-4. v1 Arrival 02/03/2023
+1. v1 Designed 01/23/2023.
+2. v1 Sent to production 01/26/2023.
+3. v1 Shipped 01/30/2023.
+4. v1 Arrival 02/03/2023.
 5. v1 Issues with USB Type C connector clearance and USB Type C pinout resulting in connectivity problems.
-6. v2 Fixes applied 02/03/2023
-7. v2 Sent to production 02/06/2023 (Shenzen Time)
-8. v2 Scheduled for completion by 02/10/2023
+6. v1 LED was on all the time.
+7. v2 Carved out a space for the Type C connector and redid the PCB for correct pinout.
+8. v2 Removed Q1 and pull up, Pin GPIO2 is now just an LED.  Reworked PCB to remove Q1 and R7. 
+9. v2 Fixes applied 02/03/2023.
+10. v2 Sent to production 02/06/2023, Shenzhen, Guangdong, China Time (UTC+8).
+11. v2 Scheduled for completion by 02/10/2023.
 
 
 
