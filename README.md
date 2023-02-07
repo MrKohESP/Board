@@ -18,6 +18,8 @@ Mr. Koh is an Open Hardware, Open Source (GPL3.0), ESP32-C3 RISC-V Developement 
 * ESD protected
 * [FreeRTOS](https://www.freertos.org/Using-FreeRTOS-on-RISC-V.html) Supported when using [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/v5.0/esp32/)
 
+## Pinout
+![MrKoh](MrKohPinout.png)
 
 ## Files
 * [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf)
