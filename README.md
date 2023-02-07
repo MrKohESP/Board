@@ -36,7 +36,7 @@ Mr. Koh is an Open Hardware, Open Source (GPL3.0), ESP32-C3 RISC-V Developement 
 6. v1 LED was on all the time.
 7. Rev 2 Carved out a space for the Type C connector and redid the PCB for correct pinout.
 8. Rev 2 Removed Q1 and pull up, Pin GPIO2 is now just an LED.  Reworked PCB to remove Q1 and R7. 
-9. Rev 2 Fixes applied 02/03/2023.
+9. Rev 2 Reworked the Pin Header pins to allow 5V from USB and to use that pin in place of USB.
 10. Rev 2 Sent to production 02/06/2023, Shenzhen, Guangdong, China Time (UTC+8).
 11. Rev 2 Scheduled for completion by 02/10/2023.
 
