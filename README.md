@@ -40,7 +40,10 @@ Mr. Koh is an Open Hardware, Open Source (GPL3.0), ESP32-C3 RISC-V Developement 
 8. Rev 2 Removed Q1 and pull up, Pin GPIO2 is now just an LED.  Reworked PCB to remove Q1 and R7. 
 9. Rev 2 Reworked the Pin Header pins to allow 5V from USB and to use that pin in place of USB.
 10. Rev 2 Sent to production 02/06/2023, Shenzhen, Guangdong, China Time (UTC+8).
-11. Rev 2 Scheduled for completion by 02/10/2023.
+11. Rev 2 pcb finished 02/07/2023
+12. Rev 2 assembly finished 2023-02-08 06:37:05 (local time).
+13. Rev 2 Waiting for Carrier to pick up completed boards.
+
 
 
 
