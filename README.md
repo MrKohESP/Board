@@ -42,8 +42,9 @@ Mr. Koh is an Open Hardware, Open Source (GPL3.0), ESP32-C3 RISC-V Developement 
 10. Rev 2 Sent to production 02/06/2023, Shenzhen, Guangdong, China Time (UTC+8).
 11. Rev 2 pcb finished 02/07/2023
 12. Rev 2 assembly finished 2023-02-08 06:37:05 (local time).
-13. Rev 2 Waiting for Carrier to pick up completed boards.
-
+13. Rev 2 waiting for Carrier to pick up completed boards.
+14. Rev 2 delivered on Mon Feb 13 at 16:43
+15. Rev 2 Tests indicate board is fully functional.
 
 
 
