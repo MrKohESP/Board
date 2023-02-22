@@ -46,7 +46,8 @@ Mr. Koh is an Open Hardware, Open Source (GPL3.0), ESP32-C3 RISC-V Developement 
 14. Rev 2 delivered on Mon Feb 13 at 16:43
 15. Rev 2 Tests indicate board is fully functional.
 
-
+## Photo
+![MrKoh](IMG_3399.jpg)
 
 
 
